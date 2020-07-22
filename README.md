@@ -1,4 +1,5 @@
 # ReactJS_project
+The project aims to create a web application to simulate the hotel room reservation.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
